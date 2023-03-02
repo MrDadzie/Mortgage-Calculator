@@ -5,3 +5,6 @@
 *The program allows users to input the pricipal amount, interest rate and period of loan*
 *The program executes using the math relation between the variables*
 *The program outputs the results to user*
+
+## Author
+Mr. Dadzie
